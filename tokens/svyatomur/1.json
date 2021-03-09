@@ -1,0 +1,20 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "birth_scene"
+    },
+    {
+      "trait_type": "holder",
+      "value": "Msk"
+    },
+    {
+      "trait_type": "prince",
+      "value": "Doge"
+    }
+  ],
+  "description": "Circle of Doge. Ingonyama nengw' enamabala.",
+  "external_url": "https://svyatomur.art/svyatomur/1",
+  "image": "https://nft.svyatomur.art/tokens/svyatomur/1.png",
+  "name": "Circle of Doge"
+}
